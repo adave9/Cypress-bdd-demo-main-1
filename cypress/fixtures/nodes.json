@@ -1,0 +1,18 @@
+{
+    "node1": {
+        "x": 300,
+        "y": 300,
+        "type": "DUT",
+        "alias": "node-one",
+        "location": "rack1",
+        "moveto": "rack3"
+    },
+    "node2": {
+        "x": 500,
+        "y": 500,
+        "type": "IXIA",
+        "alias": "node-two",
+        "location": "rack3",
+        "moveto": false
+    }
+}
